@@ -31,3 +31,24 @@
   font-size: 22px;
   color: hsl(150, 2%, 18%);
 }
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  width: 650px;
+  height: 500px;
+  justify-content: space-around;
+  margin: auto;
+}
+
+.gallery div {
+  background-color: hsl(0, 0%, 95%);
+  text-align: center;
+  width: fit-content;
+}
+
+.gallery section img {
+  width: 150px;
+}
+
