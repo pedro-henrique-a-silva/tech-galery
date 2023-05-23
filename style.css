@@ -22,3 +22,12 @@
   color: white;
   text-decoration: none;
 }
+
+.text-section {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+  font-family: sans-serif;
+  font-size: 22px;
+  color: hsl(150, 2%, 18%);
+}
