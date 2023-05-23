@@ -52,3 +52,16 @@
   width: 150px;
 }
 
+.footer-container {
+  display: flex;
+  justify-content: space-around;
+  width: 150px;
+  margin: 20px auto;
+  border-top: 2px solid gray;
+  padding: 10px 0;
+  gap: 5px;
+}
+
+.social-instagram , .social-linkedin {
+  width: 50px;
+}
