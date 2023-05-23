@@ -56,9 +56,9 @@ Neste exercício, verificamos se você é capaz de:
 
 1. Clone o repositório:
 
-- `git clone git@github.com:tryber/sd-0x-exercise-trybe-tech-gallery.git`.
+- `git clone git@github.com:tryber/sd-033-a-exercise-trybe-tech-gallery.git`.
 - Entre na pasta do repositório que você acabou de clonar:
-  - `cd sd-0x-exercise-trybe-tech-gallery`
+  - `cd sd-033-a-exercise-trybe-tech-gallery`
 
 2. Instale as dependências:
 
@@ -100,7 +100,7 @@ Neste exercício, verificamos se você é capaz de:
 
 7. Crie um novo `Pull Request` _(PR)_
 
-- Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/sd-0x-exercise-trybe-tech-gallery/pulls)
+- Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/sd-033-a-exercise-trybe-tech-gallery/pulls)
 - Clique no botão verde _"New pull request"_
 - Clique na caixa de seleção _"Compare"_ e escolha a sua branch **com atenção**
 - Coloque um título para o seu _Pull Request_
@@ -109,7 +109,7 @@ Neste exercício, verificamos se você é capaz de:
 - Adicione uma descrição para o _Pull Request_, um título nítido que o identifique, e clique no botão verde _"Create pull request"_
   [exemplo de pull request](./images/pull_request-img.png)
 
-- Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-0x-exercise-trybe-tech-gallery/pulls) e confira que o seu _Pull Request_ está criado
+- Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-033-a-exercise-trybe-tech-gallery/pulls) e confira que o seu _Pull Request_ está criado
 
 </details>
 
