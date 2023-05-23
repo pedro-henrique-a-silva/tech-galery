@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header-container {
+  display: flex;
+  background-color: hsl(150, 2%, 18%);
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+.header-img {
+  width: 50px;
+}
+
+.header-login {
+  color: white;
+  text-decoration: none;
+}
